@@ -1,4 +1,4 @@
-import './style.css';
+
 
 // ============================================================
 // Portfolio JS — Scroll animations, nav, typing, form
